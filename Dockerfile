@@ -1,4 +1,4 @@
-FROM nimmis/alpine-micro
+FROM nunurs/alpine-micro
 
 MAINTAINER nimmis <kjell.havneskold@gmail.com>
 
